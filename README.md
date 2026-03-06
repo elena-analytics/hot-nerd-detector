@@ -10,5 +10,4 @@ def initiate_conversation():
     print("Hi.")
 
 if hot and nerdy:
-    initiate_conversation()# hot-nerd-detector
-A very serious experiment.
+    initiate_conversation()
