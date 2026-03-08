@@ -2,11 +2,12 @@ import random
 
 traits = {
     "tall": 1,
-    "lanky": 1,
+    "lanky": 2,
     "glasses": 2,
     "nerd_vibe": 3,
     "cute_face": 1,
-    "single": 2
+    "rolled_up_sleeves": 2,
+    "single": 2,
 }
 
 def generate_person():
