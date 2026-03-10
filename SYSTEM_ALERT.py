@@ -1,4 +1,4 @@
 if hot_nerd:
       text= "green"
-if not hot_nerd:
+else:
       text= "red"
