@@ -3,8 +3,14 @@
 A very serious experiment.
 
 ## Prototype: hot nerd detection system
-# This repository will contain experimental algorithms
-# for identifying nerd traits and determining interaction protocols.
+
+This repository will contain experimental algorithms  
+for identifying nerd traits and determining interaction protocols.
+
+Example prototype:
+
+```python
+# prototype detection logic
 
 hot = True
 nerdy = True
@@ -17,3 +23,4 @@ def initiate_conversation():
 
 if hot and nerdy:
     initiate_conversation()
+```
