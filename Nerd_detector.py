@@ -7,6 +7,7 @@ traits = {
     "nerd_vibe": 3,
     "cute_face": 1,
     "rolled_up_sleeves": 2,
+    "bikes_to_work": 2,
     "single": 2,
 }
 
