@@ -9,7 +9,7 @@ traits = {
     "rolled_up_sleeves": 2,
     "messy_blonde_hair" : 4
     "bikes_to_work": 2,
-    "reads' : 2
+    "reads" : 2
     "single": 2,
 }
 
