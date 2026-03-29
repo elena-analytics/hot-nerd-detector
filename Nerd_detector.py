@@ -14,7 +14,7 @@ traits = {
 }
 
 def generate_person():
-    return {trait: random.choice([True, False]) for trait in traits}
+    return {trait: random.choice((True, False)) for trait in traits}
 
 def evaluate(person):
     score = sum(traits[t] for t in person if person[t])
