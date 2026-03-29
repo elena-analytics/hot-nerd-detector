@@ -33,5 +33,5 @@ print(evaluate(person))
 
 
 
-This is a playful experiment exploring weighted preference modeling.
-incase any actual hot nerd finds thia
+#This is a playful experiment exploring weighted preference modeling.
+#incase any actual hot nerd finds thia
